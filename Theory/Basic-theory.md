@@ -1,9 +1,9 @@
 ## Cách hoạt động của web từ phía client cho đến phía server sẽ có những gì?
 * Client-side:
-  ** Người dùng nhập domain của web, DNS server phân giải domain thành địa chỉ IP
-  ** Người dùng tương tác với web browser thông qua giao diện web
-  ** Web browser giao tiếp với web server thông qua giao thức HTTP (Hypertext Text Protocol)
-  ** Khi người dùng tương tác với web browser thì web browser sẽ gửi một yêu cầu HTTP đến web server (HTTP Request)
+  * Người dùng nhập domain của web, DNS server phân giải domain thành địa chỉ IP
+  * Người dùng tương tác với web browser thông qua giao diện web
+  * Web browser giao tiếp với web server thông qua giao thức HTTP (Hypertext Text Protocol)
+  * Khi người dùng tương tác với web browser thì web browser sẽ gửi một yêu cầu HTTP đến web server (HTTP Request)
 * Server-side:
   **
 ## Client gửi request cho server và nhận lại response như thế nào? Qua đâu? (HTTP, HTTP Header, HTTP Methods)
